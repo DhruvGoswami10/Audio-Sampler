@@ -1,5 +1,5 @@
 # Audio Sampler 
-Link for the App/Website -> [Audio Sampler](https://audio-sampler-mocha.vercel.app/)
+### Link for the App/Website -> [Audio Sampler](https://audio-sampler-mocha.vercel.app/)
 
 This is an Audio Sampler. It is used to create unique sounds from audio sources by manupulating the sounds waves and blending with other samples or instrunments to create something new.
 
